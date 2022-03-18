@@ -5,3 +5,5 @@
 - 🤔 I’m looking for help with csgo how can i get the lvl 10 on Faceit
 - 📫 How to reach me: @loutchoesport Twitter
 - ⚡ Fun fact: i'm a beginner
+
+My biggest dream is to one day lead a whole mafia of hackers and the world from a certain way.
