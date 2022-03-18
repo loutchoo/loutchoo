@@ -1,3 +1,5 @@
+![ameliore](https://user-images.githubusercontent.com/63863060/158916447-16767a24-66ca-4f68-a436-7071f4844a3b.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a few things.
