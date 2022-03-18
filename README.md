@@ -1,5 +1,3 @@
-![ameliore](https://user-images.githubusercontent.com/63863060/158916447-16767a24-66ca-4f68-a436-7071f4844a3b.png)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on a few things.
@@ -9,3 +7,5 @@
 - ⚡ Fun fact: i'm a beginner
 
 My biggest dream is to one day lead a whole mafia of hackers and the world from a certain way.
+
+![test](https://user-images.githubusercontent.com/63863060/158916541-e56e0870-40e1-495a-abe7-189e7b5b0e85.png)
