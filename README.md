@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a few things.
-- 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with csgo how can i get the lvl 10 on Faceit
-- 📫 How to reach me: @loutchoesport Twitter
-- ⚡ Fun fact: i'm homophobic
+- 🔭 I’m currently working on a few things but focusing on the basics.
+- 🌱 I’m currently learning Javascript.
+- 🤔 I wish i can one day make anything i want in coding lol.
+- 📫 How to reach me: @loutchoesport on Twitter.
+- ⚡ Fun fact: Hacker
 
 
 Languages :
