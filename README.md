@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a few things but focusing on the basics.
+- 🔭 I’m currently working on web developement.
 - 🌱 I’m currently learning Javascript.
-- 🤔 I wish i can one day make anything i want in coding lol.
+- 🤔 Wishing coding will give me all i want.
 - 📫 How to reach me: @loutchoesport on Twitter.
-- ⚡ Fun fact: Hacker
+- ⚡ Fun fact: h4xor
 
 
 ### Languages :
