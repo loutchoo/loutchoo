@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web developement.
-- 🌱 I’m currently learning Javascript.
-- 🤔 Wishing coding will give me all i want.
+- 🌱 I am currently learning Javascript.
 - 📫 How to reach me: @loutchoesport on Twitter.
-- ⚡ Fun fact: h4xor
-
+- ⚡ h4xor
 
 ### Languages :
 
