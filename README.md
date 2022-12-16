@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web developement.
-- 🌱 I am currently learning Javascript.
+- 🌱 I am currently learning Golang.
 - 📫 How to reach me: @loutchoesport on Twitter.
 - ⚡ h4xor
 
